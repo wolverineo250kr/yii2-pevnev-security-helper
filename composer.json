@@ -2,6 +2,8 @@
     "name": "wolverineo250kr/yii2-pevnev-security-helper",
     "description": "Security helper based on Yii2 framework. Returns an encoded string by key, aveliable to be used as a GET parameter.",
     "keywords": ["yii", "helper"],
+    "minimum-stability": "dev",	
+    "prefer-stable": true,
     "license": "MIT",
     "authors": [
         {
