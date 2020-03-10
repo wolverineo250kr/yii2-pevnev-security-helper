@@ -1,0 +1,23 @@
+{
+    "name": "wolverineo250kr/yii2-pevnev-security-helper",
+    "description": "Security helper based on Yii2 framework. Returns an encoded string by key, aveliable to be used as a GET parameter.",
+    "keywords": ["yii", "helper"],
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Певнев Константин Геннадьевич",
+            "email": "wolverineo250kr@yandex.ru"
+        }
+    ],
+    "type": "yii2-extension",
+    "require": {
+        "php": ">=7.0.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "wolverineo250kr\\widgets\\security\\": ""
+        }
+    }
+}
