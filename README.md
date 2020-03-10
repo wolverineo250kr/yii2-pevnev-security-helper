@@ -10,7 +10,6 @@ To <b>encode</b> string call in your Yii2 app following php command with your en
 \wolverineo250kr\helpers\security\SecurityHelper::encodeStringByKey('Your string', 'yourKey');
 </pre> 
 <br/>
-<br/>
 To <b>decode</b> string call in your Yii2 app following php command with your encryption key:
 <pre>
 \wolverineo250kr\helpers\security\SecurityHelper::decodeStringByKey('5arqQR_W4GYzB5uIwNDUfDg4YTcyZjFiMzg3OTQwN2YzOTRjMTEzODlmODVjZjIxOGQ0ODUzZDNhNmEyODg3MDA3OGZiMzZkZDhkMGVhNjD9yDn2R8FySgjbfIzuISO3miPmWLSBFz7f0wWMbrNYRw', 'yourKey');
