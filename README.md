@@ -1,4 +1,4 @@
-# yii2-security-helper
+# yii2-pevnev-security-helper
 <p>
 <h2>Description</h2>
 Based on Yii2 security function <i>encryptByKey</i>, this helper returns an encoded string aveliable to be used as a GET parameter.
